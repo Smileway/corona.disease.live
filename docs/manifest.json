@@ -1,50 +1,53 @@
 {
-    "name": "Novel coronavirus (2019-nCoV) worldwide live status",
+    "name": "Novel Coronavirus (2019-nCoV) Worldwide Live Status",
     "short_name": "Corona",
     "description": "Coronaviruses (CoV) are a large family of viruses that cause illness ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS-CoV) and Severe Acute Respiratory Syndrome (SARS-CoV). A novel coronavirus (nCoV) is a new strain that has not been previously identified in humans. ",
-    "start_url": "https://corona.disease.live/index.html",
-    "scope": "/",
-    "orientation": "any",
-    "lang": "English",
+    "theme_color": "#000000",
+    "background_color": "#000000",
     "display": "standalone",
-    "theme_color": "black",
-    "background_color": "black",
+    "Scope": "/",
+    "start_url": "/",
     "icons": [
-        {
-            "src": "\/android-icon-36x36.png",
-            "sizes": "36x36",
-            "type": "image\/png",
-            "density": "0.75"
-        },
-        {
-            "src": "\/android-icon-48x48.png",
-            "sizes": "48x48",
-            "type": "image\/png",
-            "density": "1.0"
-        },
-        {
-            "src": "\/android-icon-72x72.png",
-            "sizes": "72x72",
-            "type": "image\/png",
-            "density": "1.5"
-        },
-        {
-            "src": "\/android-icon-96x96.png",
-            "sizes": "96x96",
-            "type": "image\/png",
-            "density": "2.0"
-        },
-        {
-            "src": "\/android-icon-144x144.png",
-            "sizes": "144x144",
-            "type": "image\/png",
-            "density": "3.0"
-        },
-        {
-            "src": "\/android-icon-192x192.png",
-            "sizes": "192x192",
-            "type": "image\/png",
-            "density": "4.0"
-        }
-    ]
-}
+      {
+        "src": "images/icons/icon-72x72.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "images/icons/icon-96x96.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+      {
+        "src": "images/icons/icon-128x128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "images/icons/icon-144x144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      },
+      {
+        "src": "images/icons/icon-152x152.png",
+        "sizes": "152x152",
+        "type": "image/png"
+      },
+      {
+        "src": "images/icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "images/icons/icon-384x384.png",
+        "sizes": "384x384",
+        "type": "image/png"
+      },
+      {
+        "src": "images/icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "splash_pages": null
+  }
